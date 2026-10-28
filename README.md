@@ -1,4 +1,4 @@
-ython Tip Calculator 💰
+Python Tip Calculator 💰
 
 A simple command-line tip calculator built using Python.
 
